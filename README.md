@@ -9,3 +9,5 @@
  由於實作過程中發生不可抗力之因素，感測器取得困難，故改成單純由 App 觸發之輔助機器。
  修改過後的控制流程為
  
+ ![image](https://github.com/Feketerigo50/IOT-CrazyBubble/blob/master/demo_image/flowchart.png)
+ 
