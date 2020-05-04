@@ -20,7 +20,7 @@
 	
  Arudino 上主要控制機器的程式碼如下
  
- '''
+ ```
  case 'S':
   digitalWrite(LED,HIGH); // 透過這行控制音樂播放
   analogWrite(5,210);     // 這行控制吹泡桿轉動速度
@@ -30,7 +30,7 @@
   digitalWrite(LED,LOW);
   digitalWrite(4,LOW);
   break;
- '''
+ ```
  
  最後再加上電路設計便成功!
  
