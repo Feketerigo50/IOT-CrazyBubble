@@ -1,4 +1,4 @@
-# IOT-CrazyBubble __underscores__
+# __IOT-CrazyBubble__
 ### simple implementation using Arduino and App-inventor
 ### 以APP Inventor 以及 Arduino 實作的瘋狂泡泡機
 =======================
